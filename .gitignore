@@ -1,0 +1,12 @@
+.idea/
+.kiro/
+
+*.md
+!securematch/README.md
+!securematch/BUILD_AND_TEST.md
+
+Cyber.md
+Implementation_Guide.md
+Project_Prerequisites_and_Flow.md
+testall.md
+upgrade*.md

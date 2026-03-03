@@ -1,0 +1,17 @@
+.env
+
+target/
+
+.idea/
+*.iml
+.vscode/
+*.class
+
+.DS_Store
+Thumbs.db
+
+audit.log
+
+*.md
+!README.md
+!BUILD_AND_TEST.md
